@@ -1,0 +1,38 @@
+body{
+	background:#141b23;
+	color:#fff;
+	font-family: 'Franklin Gothic Medium', arial;
+	
+}
+.nav{
+	margin:0;
+	padding:4px;
+}
+.nav li{
+	list-style-type:none;
+	display:inline-block;
+	margin-right: 5px;
+	padding: 3px;
+}
+a{
+	color:green;
+}
+a:hover{
+	background:grey;
+}
+a:visited{
+	color:yellow;
+}
+img{
+	float: right;
+	margin:0;
+}
+.footer{
+	color:#454a50;
+	position: fixed;
+	bottom: 0;
+}
+.home{
+	margin: 0 0 0 95px;
+	padding: 0;
+}
